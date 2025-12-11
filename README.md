@@ -5,50 +5,43 @@ Projeto desenvolvido individualmente por Murilo Sakaue, na disciplina Object Ori
 🚀 Tecnologias Utilizadas
 Backend (API REST)
 
-Java 24
+- Java 24
 
-Spring Boot 3.3.2
+- Spring Boot 3.3.2
 
-Maven
+- Maven
 
-Jackson
+- Jackson
 
-IntelliJ IDEA
+- IntelliJ IDEA
 
-Frontend
+- Frontend
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript (Fetch API)
-
-🏗️ Arquitetura do Projeto
-projeto-jogadores/
-│
-├── backend/      → API REST em Spring Boot
-├── frontend/     → Interface Web consumindo a API
-└── README.md     → Documentação principal
+- JavaScript (Fetch API)
 
 📌 Funcionalidades da API
 
-Listar jogadores
+- Listar jogadores
 
-Buscar por ID
+- Buscar por ID
 
-Dados carregados automaticamente via JSON
+- Dados carregados automaticamente via JSON
 
-Armazenamento em memória usando List
+- Armazenamento em memória usando List
 
-Estrutura orientada a objetos completa
+- Estrutura orientada a objetos completa
 
 🎨 Funcionalidades do Front-End
 
-Interface moderna e responsiva
+- Interface moderna e responsiva
 
-Listagem dos jogadores consumindo o endpoint /api/v1/jogadores
+- Listagem dos jogadores consumindo o endpoint /api/v1/jogadores
 
-Visualização limpa e organizada
+- Visualização limpa e organizada
 
 📂 Backend — Como rodar
 cd backend
@@ -86,13 +79,13 @@ Boa prática de encapsulamento
 
 Esse projeto foi desenvolvido para consolidar:
 
-Criação de classes e objetos
+- Criação de classes e objetos
 
-Encapsulamento
+- Encapsulamento
 
-Camadas (model / controller)
+- Camadas (model / controller)
 
-Endpoints REST
+- Endpoints REST
 
 Consumo de API no front-end
 
